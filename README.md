@@ -2,6 +2,7 @@
 Planetary distance approximations
 ==============================
 Using Fourier trasform to find the frequencies of sine functions of planetary distances with respect to Earth.
+
 **In progress:**
 
 *Jupiter*
